@@ -1,1 +1,2 @@
 sample.license
+Yes, dagdag
